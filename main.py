@@ -1,6 +1,6 @@
-print()
+print("...")
 print("Suma de Gauss")
-print()
+print("...")
 
 # Sumar los numeros del 0 al 100
 
